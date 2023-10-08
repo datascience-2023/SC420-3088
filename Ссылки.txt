@@ -1,0 +1,44 @@
+Deepnote урок 1
+https://deepnote.com/workspace/dai-yousei-29382f47-e312-40c4-b079-74b1e21027b4/project/Untitled-project-7946c152-32f0-40a4-b7f8-caa35a4457ce/notebook/Notebook%201-4d6b9a0785f14315b0fd171ad5620600
+
+
+Репозиторий учебных материалов:
+
+git clone https://github.com/datascience-2023/SC420-3088
+
+Anaconda:
+https://www.anaconda.com/download/
+
+Git:
+https://git-scm.com/download/win
+
+Справка по встроенным типам python:
+https://docs.python.org/3/library/stdtypes.html
+
+Форматы строк:
+https://docs.python.org/3/library/string.html#formatspec
+
+Itertools:
+https://docs.python.org/3/library/itertools.html
+
+Google Colaboratory:
+https://colab.research.google.com/
+
+Kaggle:
+https://www.kaggle.com/
+Good afternoon. Please confirm my phone number.
+
+DeepNote:
+https://deepnote.com/
+
+LeetCode:
+https://leetcode.com/
+
+Checkio:
+https://py.checkio.org/
+
+Timus:
+https://acm.timus.ru/
+
+IT Resume:
+https://itresume.ru/
