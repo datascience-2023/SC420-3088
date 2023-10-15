@@ -1,8 +1,8 @@
-Deepnote урок 1
+п»їDeepnote СѓСЂРѕРє 1
 https://deepnote.com/workspace/dai-yousei-29382f47-e312-40c4-b079-74b1e21027b4/project/Untitled-project-7946c152-32f0-40a4-b7f8-caa35a4457ce/notebook/Notebook%201-4d6b9a0785f14315b0fd171ad5620600
 
 
-Репозиторий учебных материалов:
+Р РµРїРѕР·РёС‚РѕСЂРёР№ СѓС‡РµР±РЅС‹С… РјР°С‚РµСЂРёР°Р»РѕРІ:
 
 git clone https://github.com/datascience-2023/SC420-3088
 
@@ -12,10 +12,10 @@ https://www.anaconda.com/download/
 Git:
 https://git-scm.com/download/win
 
-Справка по встроенным типам python:
+РЎРїСЂР°РІРєР° РїРѕ РІСЃС‚СЂРѕРµРЅРЅС‹Рј С‚РёРїР°Рј python:
 https://docs.python.org/3/library/stdtypes.html
 
-Форматы строк:
+Р¤РѕСЂРјР°С‚С‹ СЃС‚СЂРѕРє:
 https://docs.python.org/3/library/string.html#formatspec
 
 Itertools:
@@ -42,3 +42,26 @@ https://acm.timus.ru/
 
 IT Resume:
 https://itresume.ru/
+
+Stratascratch:
+https://platform.stratascratch.com/
+
+Wolfram Alpha:
+https://www.wolframalpha.com/
+
+----------------------------------------------------
+
+РЁРїР°СЂРіР°Р»РєР° РїРѕ Pandas:
+https://pythonpip.ru/pandas/kratkoe-rukovodstvo-po-osnovam-pandas
+
+РЁРїР°СЂРіР°Р»РєР° РїРѕ Markdown:
+https://notebook.community/tschinz/iPython_Workspace/00_Admin/CheatSheet/Markdown%20CheatSheet
+
+Р”РѕРєСѓРµРЅС‚Р°С†РёСЏ Pandas:
+https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+
+РҐРёnСЂРѕСЃС‚Рё Pandas:
+https://www.dataschool.io/python-pandas-tips-and-tricks/
+
+РњРЅРѕРіРѕ РґР°С‚Р°СЃРµС‚РѕРІ РІ С„РѕСЂРјР°С‚Рµ CSV:
+https://github.com/owid/owid-datasets/tree/master/datasets
