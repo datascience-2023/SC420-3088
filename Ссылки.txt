@@ -1,6 +1,14 @@
-﻿Deepnote урок 1
+﻿Установка pytorch
+https://pytorch.org/get-started/locally/
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+
+category_encoders gensim umap-learn pyod
+
+Deepnote урок 1
 https://deepnote.com/workspace/dai-yousei-29382f47-e312-40c4-b079-74b1e21027b4/project/Untitled-project-7946c152-32f0-40a4-b7f8-caa35a4457ce/notebook/Notebook%201-4d6b9a0785f14315b0fd171ad5620600
 
+brunoyam.test@gmail.com
+ZG>'h5Sf
 
 Репозиторий учебных материалов:
 
